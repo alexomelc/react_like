@@ -1,0 +1,1 @@
+import fetchOrders from './app.ts'

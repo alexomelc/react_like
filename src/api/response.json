@@ -1,0 +1,65 @@
+[
+  {
+    "city": "Barcelona",
+    "favorite": true,
+    "id": 1,
+    "name": "Pizza",
+    "price": 14.5
+  },
+  {
+    "city": "Valencia",
+    "favorite": true,
+    "id": 2,
+    "name": "Burger",
+    "price": 18
+  },
+  {
+    "city": "Madrid",
+    "favorite": false,
+    "id": 3,
+    "name": "Pad Thai",
+    "price": 9
+  },
+  {
+    "city": "Malaga",
+    "favorite": false,
+    "id": 4,
+    "name": "Empanada",
+    "price": 6.5
+  },
+  {
+    "city": "Rome",
+    "favorite": true,
+    "id": 5,
+    "name": "Pasta Bolognese",
+    "price": 11
+  },
+  {
+    "city": "Pamplona",
+    "favorite": false,
+    "id": 6,
+    "name": "Steak",
+    "price": 23
+  },
+  {
+    "city": "Seville",
+    "favorite": true,
+    "id": 7,
+    "name": "Chicken Tikka Masala",
+    "price": 15
+  },
+  {
+    "city": "Barcelona",
+    "favorite": true,
+    "id": 8,
+    "name": "Groceries",
+    "price": 48
+  },
+  {
+    "city": "Madrid",
+    "favorite": false,
+    "id": 9,
+    "name": "Sushi",
+    "price": 18.5
+  }
+]
